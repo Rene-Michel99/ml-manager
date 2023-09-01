@@ -1,0 +1,8 @@
+#Api
+coverage==7.2.7
+Flask==2.3.2
+Flask-Cors==3.0.10
+python-dotenv
+flask-restx==1.1.0
+pytest==7.3.1
+requests==2.31.0
